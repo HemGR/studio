@@ -19,7 +19,7 @@ import subprocess
 import os
 os.environ["HF_HUB_ENABLE_HF_TRANSFER"] = "1"
 os.environ["GRADIO_ANALYTICS_ENABLED"] = "False"
-MODEL_NAME = "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit"
+MODEL_NAME = "Heem2/NEPALIGPT-1.0"
 
 print("Installing packages for 🦥 Unsloth Studio ... Please wait 1 minute ...")
 
